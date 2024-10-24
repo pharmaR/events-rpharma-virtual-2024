@@ -1,0 +1,14 @@
+project:
+  title: "R Validation Hub: Regulatory Repository"
+  
+format:
+  rvalhub-revealjs:
+    width: 1280
+    height: 720
+    fontsize: 30px
+    df-print: kable
+    mermaid:
+      theme: default
+    slide-number: true
+    css: style.css
+

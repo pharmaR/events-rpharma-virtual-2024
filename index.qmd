@@ -1,0 +1,332 @@
+---
+title: "The Year Ahead"
+author:
+  - name: _Doug Kelkhoff, on behalf of the R Validation Hub_
+  - name: "<br>"
+  - name: "<span style='font-weight: bold;'>R/Pharma Virtual 2024, October 29th</span>"
+  - name: "<span style='margin-left: 2.0em;'>Slides available: [pharmar.github.io/events-rpharma-virtual-2024](https://pharmar.github.io/events-rpharma-virtual-2024)</span>"
+---
+
+{{< include _r_val_hub_intro.qmd >}}
+
+# Reflecting on our Tools
+
+## Evolving Interests
+
+_This year marks a turning point for `riskmetric`_
+
+<br>
+
+::: { .columns } 
+::: { .column }
+### 🌱 How it started
+
+* A tool to support **advocacy** of the use of R
+* Prefer **simplicity** of reasonable indications of quality with minimal 
+  knowledge of ecosystem 
+* Primary user story was for data scientists to **build a case** for what good
+  software looks like
+:::
+
+::: { .column }
+### 🌳 How it's going
+
+* A tool to support **administration** of R packages
+* Prefer **precise** indicators of quality, with full awareness of complexity of
+  ecosystem
+* Primary user story is now to **build a production-grade** R environment
+:::
+:::
+
+## Accumulation of Features
+
+::: { .columns }
+::: { .column .panel width="45%" }
+### `riskmetric`
+
+* 😁 Quantifies R packages
+:::
+
+::: { .column .panel width="45%" }
+### `riskassessment`
+
+* 😁 Shiny app around `riskmetric`
+:::
+
+::: { .column .panel width="45%" }
+### Regulatory Repos
+
+* 😁 Serve repo with `riskmetric`s
+:::
+:::
+
+## Accumulation of Features
+
+::: { .columns }
+::: { .column .panel width="45%" }
+### `riskmetric`
+
+* 😁 Quantifies R packages
+* 🤔 Scoring R packages
+:::
+
+::: { .column .panel width="45%" }
+### `riskassessment`
+
+* 😁 Shiny app around `riskmetric`
+* 🤔 Customizing package scoring criteria
+:::
+
+::: { .column .panel width="45%" }
+### Regulatory Repos
+
+* 😁 Serve repo with `riskmetric`s
+* 🤔 Customizing package filters
+:::
+:::
+
+## Accumulation of Features
+
+::: { .columns }
+::: { .column .panel width="45%" }
+### `riskmetric`
+
+* 😁 Quantifies R packages
+* 🤔 Scoring R packages
+* 😬 Perceived industry standard
+:::
+
+::: { .column .panel width="45%" }
+### `riskassessment`
+
+* 😁 Shiny app around `riskmetric`
+* 🤔 Customizing package scoring criteria
+* 😬 Report generation
+:::
+
+::: { .column .panel width="45%" }
+### Regulatory Repos
+
+* 😁 Serve repo with `riskmetric`s
+* 🤔 Customizing package filters
+* 😬 Report generation
+:::
+:::
+
+## Accumulation of Features
+
+::: { .columns }
+::: { .column .center .panel style="width: 28%; height: 75%;" }
+::: { style="padding: 1em;" }
+<span style="font-size: 4em">🚀</span>
+
+Each team pushing forward to bring new features
+:::
+::: 
+
+::: { .column .center .panel style="width: 28%; height: 75%;" }
+::: { style="padding: 1em;" }
+<span style="font-size: 4em">🫱🏽‍🫲🏿</span>
+
+Recognizing commonality across new capabilities
+:::
+::: 
+
+::: { .column .center .panel style="width: 28%; height: 75%;" }
+::: { style="padding: 1em;" }
+<span style="font-size: 4em">🧩<span>
+
+Expose opportunities for dedicated teams and more unified vision
+:::
+:::
+:::
+
+
+## Toward more Intentional Scopes {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: { data-id="riskmetric" style="position: absolute; width: 10%; top: 15%; left: 20%;" }
+![](resources/riskmetric.png)
+:::
+
+::: { data-id="riskassessment" style="position: absolute; width: 10%; top: 15%; left: 50%;" }
+![](resources/riskassessment.png)
+:::
+
+::: { data-id="repo" style="position: absolute; width: 10%; top: 15%; left: 80%;" }
+![](resources/repo.png)
+:::
+
+::: { data-id="riskmetric-governance" style="opacity: 0%; position: absolute; width: 10%; top: 30.5%; left: 25%;" }
+![](resources/governance.png)
+:::
+
+::: { data-id="riskassessment-decisions" style="opacity: 0%; position: absolute; width: 10%; top: 30.5%; left: 45%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="riskassessment-reporting" style="opacity: 0%; position: absolute; width: 10%; top: 30.5%; left: 55%;" }
+![](resources/reporting.png)
+:::
+
+::: { data-id="repo-governance" style="opacity: 0%; position: absolute; width: 10%; top: 15%; left: 70%;" }
+![](resources/governance.png)
+:::
+
+::: { data-id="repo-decisions" style="opacity: 0%; position: absolute; width: 10%; top: 30.5%; left: 75%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="repo-reporting" style="opacity: 0%; position: absolute; width: 10%; top: 30.5%; left: 85%;" }
+![](resources/reporting.png)
+:::
+
+
+
+## Toward more Intentional Scopes {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: { data-id="riskmetric" style="position: absolute; width: 10%; top: 15%; left: 20%;" }
+![](resources/riskmetric.png)
+:::
+
+::: { data-id="riskmetric-governance" style="position: absolute; width: 10%; top: 30.5%; left: 25%;" }
+![](resources/governance.png)
+:::
+
+
+::: { data-id="riskassessment" style="position: absolute; width: 10%; top: 15%; left: 50%;" }
+![](resources/riskassessment.png)
+:::
+
+::: { data-id="riskassessment-decisions" style="position: absolute; width: 10%; top: 30.5%; left: 45%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="riskassessment-reporting" style="position: absolute; width: 10%; top: 30.5%; left: 55%;" }
+![](resources/reporting.png)
+:::
+
+
+::: { data-id="repo" style="position: absolute; width: 10%; top: 15%; left: 80%;" }
+![](resources/repo.png)
+:::
+
+::: { data-id="repo-governance" style="position: absolute; width: 10%; top: 15%; left: 70%;" }
+![](resources/governance.png)
+:::
+
+::: { data-id="repo-decisions" style="position: absolute; width: 10%; top: 30.5%; left: 75%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="repo-reporting" style="position: absolute; width: 10%; top: 30.5%; left: 85%;" }
+![](resources/reporting.png)
+:::
+
+## Toward more Intentional Scopes {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: { data-id="riskmetric" style="position: absolute; width: 10%; top: 15%; left: 20%;" }
+![](resources/riskmetric.png)
+:::
+
+::: { data-id="riskmetric-governance" style="position: absolute; width: 10%; top: 40%; left: 12.5%;" }
+![](resources/governance.png)
+:::
+
+
+::: { data-id="riskassessment" style="position: absolute; width: 10%; top: 15%; left: 50%;" }
+![](resources/riskassessment.png)
+:::
+
+::: { data-id="riskassessment-decisions" style="position: absolute; width: 10%; top: 40%; left: 42.5%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="riskassessment-reporting" style="position: absolute; width: 10%; top: 40%; left: 72.5%;" }
+![](resources/reporting.png)
+:::
+
+
+::: { data-id="repo" style="position: absolute; width: 10%; top: 15%; left: 80%;" }
+![](resources/repo.png)
+:::
+
+::: { data-id="repo-governance" style="position: absolute; width: 10%; top: 40%; left: 12.5%;" }
+![](resources/governance.png)
+:::
+
+::: { data-id="repo-decisions" style="position: absolute; width: 10%; top: 40%; left: 42.5%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="repo-reporting" style="position: absolute; width: 10%; top: 40%; left: 72.5%;" }
+![](resources/reporting.png)
+:::
+
+## Toward more Intentional Scopes {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: { data-id="riskmetric" style="position: absolute; width: 10%; top: 15%; left: 20%;" }
+![](resources/riskmetric.png)
+:::
+
+::: { data-id="riskmetric-governance" style="position: absolute; width: 10%; top: 40%; left: 12.5%;" }
+![](resources/governance.png)
+:::
+
+
+::: { data-id="riskassessment" style="position: absolute; width: 10%; top: 15%; left: 50%;" }
+![](resources/riskassessment.png)
+:::
+
+::: { data-id="riskassessment-decisions" style="position: absolute; width: 10%; top: 40%; left: 42.5%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="riskassessment-reporting" style="position: absolute; width: 10%; top: 40%; left: 72.5%;" }
+![](resources/reporting.png)
+:::
+
+
+::: { data-id="repo" style="position: absolute; width: 10%; top: 15%; left: 80%;" }
+![](resources/repo.png)
+:::
+
+::: { data-id="repo-governance" style="position: absolute; width: 10%; top: 40%; left: 12.5%;" }
+![](resources/governance.png)
+:::
+
+::: { data-id="repo-decisions" style="position: absolute; width: 10%; top: 40%; left: 42.5%;" }
+![](resources/decisions.png)
+:::
+
+::: { data-id="repo-reporting" style="position: absolute; width: 10%; top: 40%; left: 72.5%;" }
+![](resources/reporting.png)
+:::
+
+
+::: { style="position: absolute; width: 25%; top: 65%; left: 8%;" }
+<h3>Governance</h3>
+
+* Industry scoring recommendations
+* Involve more regulatory expertise
+:::
+
+::: { style="position: absolute; width: 25%; top: 65%; left: 38%;" }
+<h3>Decision Tools</h3>
+
+* Simple syntax for specifying criteria
+* Easily interpretable by regulators
+:::
+
+::: { style="position: absolute; width: 25%; top: 65%; left: 68%;" }
+<h3>Reporting</h3>
+
+* Off-the-shelf regulatory templates
+* Consitent reporting across tools
+:::
+
+## Thank You
+
+We look forward to hearing more from you at our Developer Day
+
+
+
