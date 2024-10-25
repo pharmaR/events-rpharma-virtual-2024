@@ -324,9 +324,11 @@ Expose opportunities for dedicated teams and more unified vision
 * Consitent reporting across tools
 :::
 
+## { background-image="resources/workshop.png" background-size="contain" }
+
 ## Thank You
 
 We look forward to hearing more from you at our Developer Day
 
-
-
+::: { style="height: 60%;" }
+:::
